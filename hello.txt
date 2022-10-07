@@ -1,2 +1,3 @@
-This is Ari Michel
-Adding from github - second commit
+# This is Ari Michel
+Adding text from github - second commit
+Adding text from laptop
